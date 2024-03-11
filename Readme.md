@@ -1,1 +1,1 @@
-# here is imp. cocepts in backend
+# here is imp. concepts in backend
